@@ -10,4 +10,3 @@
 
 Palaiokostas, C., 2024. Breeding evaluations in aquaculture using neural networks. Aquaculture Reports 39, 102468. https://doi.org/10.1016/j.aqrep.2024.102468
 
-![image](https://github.com/user-attachments/assets/a6052fc3-3e42-431a-8315-c0c21eff1aae)
